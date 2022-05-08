@@ -546,30 +546,30 @@
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
 		}]
-	} 
-    {
-      "chainId": 1,
-      "saleManagerAddress": "0x380cf1D8e32fADfE0dfF8B1d4d2d25A025064091",
-      "saleId": "0x51f095bf7556fd1aff5fdfa99d50079c590505c1c56de89aab7427d204440533",
-      "saleName": "ogo (ogo)",
-      "logo": "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
-      "favicon": "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
-      "projectWebsite": "https://tokensoft.io",
-      "saleDescription": "https://tokensoft.io",
-      "access": {
-        "limitToRegions": ["US", "GB", "CA"]
-      },
-      "socials": {
-        "twitter": "https://twitter.com/home",
-        "discord": "https://discord.gg/tokensoft",
-        "telegram": "https://t.me/tokensoft"
-      },
-      "documents": [
-        {
-          "name": "Purchase Agreement",
-          "uri": "https://example.com/qtz.pdf",
-          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-        }
+	 }, 
+         {
+                "chainId": 1,
+                "saleManagerAddress": "0x380cf1D8e32fADfE0dfF8B1d4d2d25A025064091",
+                "saleId": "0x51f095bf7556fd1aff5fdfa99d50079c590505c1c56de89aab7427d204440533",
+                "saleName": "ogo (ogo)",
+                "logo": "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
+                "favicon": "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
+                "projectWebsite": "https://tokensoft.io",
+                "saleDescription": "https://tokensoft.io",
+                "access": {
+                  "limitToRegions": ["US", "GB", "CA"]
+                },
+                   "socials": {
+                   "twitter": "https://twitter.com/home",
+                   "discord": "https://discord.gg/tokensoft",
+                   "telegram": "https://t.me/tokensoft"
+         },
+                "documents": [
+         {
+                "name": "Purchase Agreement",
+                "uri": "https://example.com/qtz.pdf",
+                "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+         }
       ]
   },
 ]
